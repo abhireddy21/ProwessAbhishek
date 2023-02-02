@@ -1,0 +1,28 @@
+.user-main{
+    width: 100vw;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap:30px;
+}
+.main-title{
+    width: 100vw;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(#13005A,#00337C,#0275d8);
+}
+.title{
+    font-size: 5rem;
+    color: white;
+    font-family: 'Righteous', cursive;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 2px rgb(0, 0, 0);
+}
+.user-tbl{
+    width: 80%;
+    background-color: rgb(76, 135, 186);
+}

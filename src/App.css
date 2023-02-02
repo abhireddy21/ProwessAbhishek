@@ -1,0 +1,10 @@
+.Card{
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap:30px;
+    flex-wrap: wrap;
+    padding: 30px;
+  }

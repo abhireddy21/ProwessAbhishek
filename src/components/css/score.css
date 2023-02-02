@@ -1,0 +1,14 @@
+.score-cnt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 20px;
+}
+.score-img{
+
+}
+.score-table{
+    width: 60%;
+    text-align: center;
+}

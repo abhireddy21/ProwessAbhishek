@@ -1,0 +1,15 @@
+.main-head{
+    width: 100%;
+    height: auto;
+    /* background-color: aqua; */
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+}
+.heading{
+    font-size: 2rem;
+    text-shadow: 2px 2px 3px rgba(36, 36, 67, 0.889);
+    font-weight: bolder;
+    font-family: 'PT Mono', monospace;
+    letter-spacing: 1px;
+}
